@@ -10,7 +10,7 @@ from ytdl import YTDLSource
 import os
 import asyncio
 
-TOKEN = "NzA1MzAyNTk0ODA5MjMzNDU4.Xq3XZg.XuLJY9PpDvscYBqfeQ_qDuV5mb4"
+TOKEN = "token"
 client = commands.Bot(command_prefix = "$")
 client.remove_command("help")
 
